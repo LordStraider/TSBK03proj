@@ -1,3 +1,6 @@
+*.DS_Store
+intermediate-files/*.*
+
 # Compiled Object files
 *.slo
 *.lo
